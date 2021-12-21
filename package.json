@@ -1,15 +1,14 @@
 {
   "name": "ps-scraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "ps-scraper is a web scraper that allows you to extract data from the PlayStation Store, looking for new offers, free games, monthly games, discounts and exclusive ps plus packages.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fabrício Silva",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
